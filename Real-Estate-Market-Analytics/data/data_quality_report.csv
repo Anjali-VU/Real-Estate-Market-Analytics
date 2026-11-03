@@ -1,0 +1,10 @@
+Metric,Value
+Original row count,250000
+Cleaned row count,250000
+Original column count,23
+Exact duplicate rows removed,0
+Original missing values,0
+Floor records flagged as inconsistent,116304
+Price outlier records,0
+Size outlier records,0
+Price per sq ft outlier records,19723

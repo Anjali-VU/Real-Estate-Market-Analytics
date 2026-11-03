@@ -1,0 +1,12 @@
+{
+  "rows": 250000,
+  "columns_original": 23,
+  "states": 20,
+  "cities": 42,
+  "localities": 500,
+  "avg_price_lakhs": 254.59,
+  "median_price_lakhs": 253.87,
+  "avg_price_per_sqft_inr": 13058.28,
+  "avg_size_sqft": 2749.81,
+  "floor_inconsistent_records": 116304
+}
